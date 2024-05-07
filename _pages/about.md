@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "ABOUT ME"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,13 +15,34 @@ At Haitong Securities, I spearheaded the development of a multi-asset allocation
 
 I am proficient in Python, R, and Matlab and adept at using various financial and statistical analysis tools. My bilingual proficiency in Chinese and English enhances my communication capabilities. I am eager to bring my expertise to your team and explore new opportunities in the field of financial engineering. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+
+Professional Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Haitong Securities (2023.02 - 2023.06)
+Research Institute, Financial Engineering Intern, Shanghai
+·Constructed Global Risk Appetite Cycle Index (GRACI) through Python to identify macroeconomic cycles, analyzed the correlation between equity risk premium, credit risk premium, term premium and economic cycles, and established a strategic asset allocation strategy based on economic cycles
+·Integrated inflation indicators to optimize strategies, tested with stock, government bond, corporate bond and bank loan data to build multi-asset and fixed income portfolios, achieving annualized returns of 17.04% and 15.67% with Sharpe ratios of 1.50 and 1.88, respectively
+·Monitored the performance of quantitative stock portfolios and various stock selection factors, writing 8 weekly reports on fund performance and factor analysis
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Huatai Securities (2022.06 – 2023.01)
+Huatai Innovation Investment Co., Ltd, Equity Investment Intern, Beijing
+·Participated in front-end research and due diligence for projects related to corporate financial services, conducted company research and product experience on more than 20 companies, conducted management and user interviews for three selected teams to support investment decisions
+·Assisted in analyzing target companies' financial data and in the selection process, applied P-MAU and DCF models for valuation
+·Utilized Python crawler to scrape investment data and compile daily reports, analyzed capital market financing trends and industrial policies, helped complete three research reports, and assisted in organizing three technology expert interviews, producing two reports in areas including blockchain finance and cloud computing
+
+Huatai Securities (2021.06 – 2021.10)
+Equity Investment Department, Equity Quantitative Strategy Intern, Nanjing
+·Developed Resistance Support Relative Strength (RSRS) indicator with the slope standard score of a bilinear regression model using Python, optimizing the timing strategy by using the CSI 300 Index and the CSI 500 Index for parameter optimization
+·Improved the RSRS timing strategy by incorporating the judgment of historical market price trends into the strategy to avoid building positions during market downtrends
+·Drew net asset value charts for different parameter RSRS strategies, utilized grid search to find the best parameters for high-frequency trading, and conducted back testing with 5-minute data, achieving an annualized return rate of 24.54%, a Sharpe ratio of 1.76, and an annual excess return rate of 10.45%
+
+Fuju Investment and Consulting Co., Ltd (2020.06 – 2020.09)
+Strategy Research Department, Quantitative Strategy Intern, Shanghai
+·Collect and process the fundamental factor data of the constituents of the CSI 800 Index, use the PCA algorithm to reduce the dimensionality of stock features, and identify stock correlations through K-Means clustering and the DBSCAN algorithm.
+·Use the Ornstein-Uhlenbeck process to calculate price differentials and model stock relationships, conducting ADF tests on each cluster to find cointegrated stock pairs.
+·Establish a LASSO regression model using the Kalman filter to predict the stock portfolio spread, build a pair trading strategy, and achieve an annualized excess return of 6.37%, a Sharpe ratio of 1.19, and a Sortino ratio of 1.72.
+
 
 Getting started
 ======
