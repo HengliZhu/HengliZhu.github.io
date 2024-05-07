@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+Hi! My name is Hengli Zhu, and I am pursuing a Master of Engineering in Financial Engineering at Cornell University. I have maintained an impressive GPA of 3.9/4.0, reflecting my strong academic performance and research capabilities in a challenging environment. Previously, I earned my undergraduate degree in Financial Engineering from Nanjing University, graduating with a notable GPA of 3.8/4.0 and receiving multiple scholarships and honors.
+
+Throughout my academic journey, I have delved into core subjects such as machine learning, Monte Carlo simulation, operations research optimization, and big data technologies, building essential skills in financial engineering. My passion for financial markets has been further nurtured through internships at Haitong Securities and Huatai Securities. These experiences honed my market analysis abilities and equipped me to tackle challenges in high-pressure settings, emphasizing effective teamwork.
+
+At Haitong Securities, I spearheaded the development of a multi-asset allocation strategy that incorporated treasury and corporate bonds, adapting to economic cycles. At Huatai Securities, I was involved in strategy development and backtesting using RSRS indicators, and I employed clustering and filtering algorithms like K-Means, DBSCAN, and Kalman to devise successful pair trading strategies.
+
+I am proficient in Python, R, and Matlab and adept at using various financial and statistical analysis tools. My bilingual proficiency in Chinese and English enhances my communication capabilities. I am eager to bring my expertise to your team and explore new opportunities in the field of financial engineering. 
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
