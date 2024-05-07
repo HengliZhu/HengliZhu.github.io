@@ -19,19 +19,17 @@ I am proficient in Python, R, and Matlab and adept at using various financial an
 
 Professional Experience
 ======
-Haitong Securities (2023.02 - 2023.06)
-Huatai Innovation Investment Co., Ltd (2022.06 – 2023.01)
-Huatai Securities (2021.06 – 2021.10)
-Fuju Investment and Consulting Co., Ltd (2020.06 – 2020.09)
+**Haitong Securities** (2023.02 - 2023.06)
 
-Getting started
+**Huatai Innovation Investment Co., Ltd** (2022.06 – 2023.01)
+
+**Huatai Securities** (2021.06 – 2021.10)
+
+**Fuju Investment and Consulting Co., Ltd** (2020.06 – 2020.09)
+
+Interest
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In addition to my academic and professional pursuits, I have a deep passion for swimming, playing guitar, and tennis. I was an active member of the Nanjing University Tennis Association. Moreover, I am an avid amateur Chinese painter specializing in traditional meticulous flower-and-bird painting, a classical style that captures the essence of natural beauty. My dedication to this art form has led me to hold personal exhibitions in Yangzhou and Nanjing, showcasing my artistic achievements.
 
 Site-wide configuration
 ------
