@@ -20,6 +20,7 @@ I am proficient in Python, R, and Matlab and adept at using various financial an
 Professional Experience
 ======
 Haitong Securities (2023.02 - 2023.06)
+
 Research Institute, Financial Engineering Intern, Shanghai
 ·Constructed Global Risk Appetite Cycle Index (GRACI) through Python to identify macroeconomic cycles, analyzed the correlation between equity risk premium, credit risk premium, term premium and economic cycles, and established a strategic asset allocation strategy based on economic cycles
 ·Integrated inflation indicators to optimize strategies, tested with stock, government bond, corporate bond and bank loan data to build multi-asset and fixed income portfolios, achieving annualized returns of 17.04% and 15.67% with Sharpe ratios of 1.50 and 1.88, respectively
