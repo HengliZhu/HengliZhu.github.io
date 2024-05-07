@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Eng. in Financial Engineering, Cornell University, 2024 (expected)
+* B.Eng. in Financial Engineering, Nanjing University, 2022
 
-Work experience
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Haitong Securities** (2023.02 – 2023.06)
+* Research Institute, Financial Engineering Intern
+  * Constructed Global Risk Appetite Cycle Index (GRACI) through Python to identify macroeconomic cycles, analyzed the correlation between equity risk premium, credit risk premium, term premium and economic cycles, and established a strategic asset allocation strategy based on economic cycles
+  * Integrated inflation indicators to optimize strategies, tested with stock, government bond, corporate bond and bank loan data to build multi-asset and fixed income portfolios, achieving annualized returns of 17.04% and 15.67% with Sharpe ratios of 1.50 and 1.88, respectively
+  * Monitored the performance of quantitative stock portfolios and various stock selection factors, writing 8 weekly reports on fund performance and factor analysis
 
 * Fall 2015: Research Assistant
   * Github University
